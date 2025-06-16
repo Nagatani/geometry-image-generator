@@ -1,7 +1,12 @@
 {
   "name": "generator",
   "type": "module",
+  "description": "Geometry images generator",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nagatani/geometry-image-generator"
+  },
   "files": [
     "generator_bg.wasm",
     "generator.js",
