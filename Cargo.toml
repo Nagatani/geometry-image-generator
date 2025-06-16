@@ -2,6 +2,8 @@
 name = "generator"
 version = "0.1.0"
 edition = "2024"
+description = "Geometry images generator"
+repository = "https://github.com/Nagatani/geometry-image-generator"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
